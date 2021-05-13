@@ -1,6 +1,6 @@
-# test-reports-table
+# WooCommerce Admin tasklist tester
 
-A WooCommerce Admin Extension
+This is a WooCommerce extension used for testing the tasklist in WC Admin.
 
 ## Development
 
